@@ -1,0 +1,66 @@
+.indexTable {
+  float: left;
+  display: inline-block;
+  border: 1px solid #000000;
+  background-color: white;
+  width: 15%;
+  padding: 5px 8px 5px;
+  margin: 5px 5px 5px 5px;
+  font-family: 'Open Sans';
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 30px;
+}
+
+#piedHeader {
+  font-family: 'Open Sans';
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 30px;
+  padding: 5px 5px 8px 15px;
+}
+
+#piedTitle {
+  display: inline-block;
+  font-family: 'Open Sans';
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 30px;
+  margin: 0px 0px 8px 5px;
+  border: 1px solid black;
+}
+
+p {
+  display: table-cell;
+  font-family: 'Open Sans';
+  font-size: 12px;
+  font-weight: 400;
+  padding: inherit;
+  border: 1px solid black;
+}
+
+p.product {
+  font-family: 'Open Sans';
+  font-size: 12px;
+  font-weight: 400;
+  border: 1px solid black;
+}
+
+.threeBoxes1 {
+  display: inline-block;
+  border: 1px solid black;
+}
+
+.threeBoxes {
+  display: inline-block;
+  border: 1px solid black;
+}
+
+img {
+    width: 150px;
+    padding: 13px;
+}
+
+* {
+    vertical-align: top;
+}
